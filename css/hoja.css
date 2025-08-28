@@ -180,8 +180,8 @@ ul li a:hover {
     display: block;
 }
 .sec_select a img {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    display: block;
+	transition: transform 0.3s ease, box-shadow 0.3s ease;
+	display: block;
 }
 .sec_juego a img:hover  {
   transform: translateY(-10px) scale(1.05);
